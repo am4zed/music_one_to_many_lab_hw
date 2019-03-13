@@ -1,5 +1,4 @@
 require('pry-byebug')
-require_relative('sql_runner')
 require_relative('../models/artist')
 require_relative('../models/album')
 

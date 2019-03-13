@@ -1,3 +1,6 @@
+require_relative('sql_runner')
+require_relative('./album')
+
 class Artist
   attr_accessor :name
   attr_reader :id
